@@ -1,6 +1,13 @@
-# chatus
+# Chat Us App 
 
 A new Flutter project.
+
+implemented from design :
+https://pixel.buildwithangga.com/details/chatus-app-mobile
+
+screenshot :
+![image](https://user-images.githubusercontent.com/63090705/122500530-29de5e00-d01d-11eb-9699-1f346c87f13e.png)
+
 
 ## Getting Started
 
